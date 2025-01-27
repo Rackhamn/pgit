@@ -1,6 +1,11 @@
 # Fuck my life and suck some dick
+<<<<<<< HEAD
 
 
 
 
-# LOOOOOOOOOOOL
+# LOOOOOOOOOOO
+
+**Mind you language, punk...**
+
+
