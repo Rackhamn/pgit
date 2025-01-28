@@ -1,10 +1,10 @@
-# Fuck my life and suck some dick
-Help me PLZ why is 2auth pgp such an issue
+# Markdown Title 1
+Markdown subtext 1
 
-# LOOOOOOOOOOOL
+## Markdown Title 2
+*markdown special text*
 
-**Mind you language, punk...**
-
-# What else should we do?
+### Markdown Title 3
+Markdown subtext 3
 
 
